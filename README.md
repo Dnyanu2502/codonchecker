@@ -1,0 +1,2 @@
+# codonchecker
+Analyze codon sequences
