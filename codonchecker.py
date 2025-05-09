@@ -270,7 +270,7 @@ def show_about_page():
     st.markdown('<div class="header">👩‍🏫 About the Author and Mentor</div>', unsafe_allow_html=True)
 
     st.markdown('<div class="author-section">', unsafe_allow_html=True)
-    st.image("C:/DNYANU/dnyanus photos/pharmacy/teachers day/IMG-20180808-WA0050.jpg", width=150, caption="Dnyaneshwari Keshav Bankar")
+    st.image("https://github.com/Dnyanu2502/codonchecker/blob/main/IMG-20180808-WA0050.jpg", width=150, caption="Dnyaneshwari Keshav Bankar")
     st.subheader("Dnyaneshwari Keshav Bankar")
     st.markdown("""
     - *Currently pursuing*: Masters in Bioinformatics  
